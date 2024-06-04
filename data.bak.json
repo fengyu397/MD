@@ -1,0 +1,49 @@
+{
+  "buildIn": {
+    "compress": {
+      "quality": 100,
+      "isConvert": false,
+      "convertFormat": "jpg",
+      "isReSize": true,
+      "reSizeWidth": 500,
+      "reSizeHeight": 500,
+      "skipReSizeOfSmallImg": false,
+      "isReSizeByPercent": true,
+      "reSizePercent": 50,
+      "isRotate": false,
+      "rotateDegree": 0,
+      "isRemoveExif": false,
+      "isFlip": false,
+      "isFlop": false,
+      "formatConvertObj": {}
+    },
+    "watermark": {
+      "isAddWatermark": false,
+      "watermarkType": "text",
+      "isFullScreenWatermark": false,
+      "watermarkDegree": 0,
+      "watermarkText": "",
+      "watermarkFontPath": "",
+      "watermarkScaleRatio": 0.15,
+      "watermarkColor": "#CCCCCC73",
+      "watermarkImagePath": "",
+      "watermarkPosition": "southeast"
+    }
+  },
+  "settings": {
+    "manualPageOpen": "window",
+    "showUpdateTip": false,
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    }
+  },
+  "picBed": {
+    "current": "github",
+    "uploader": "github"
+  }
+}
